@@ -17,7 +17,7 @@ My research interests include physics based simulation and geometry processing. 
 Research
 ======
 <div style="float:left; clear: both;" align="left">
-<img width="140" height="130" align="left" src="https://wkindling.github.io/images/paper_0.png"/>
+<img width="140" height="135" align="left" src="https://wkindling.github.io/images/paper_0.png"/>
 </div>
 
 &nbsp; __Cosserat Rod with rh-Adaptive Discretization__   
