@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Hubei, China"
-title                    : "Jiahao Wen / Personal Page"
+title                    : "Jiahao Wen"
 title_separator          : "-"
 name                     : &name "Jiahao Wen"
 description              : &description "Personal Page"
@@ -83,7 +83,7 @@ author:
   name             : "Jiahao Wen"
   avatar           : "profile.png"
   bio              : "First-year Ph.D. student at University of Southern California"
-  location         : "China"
+  location         : #"China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=0idAgVgAAAAJ"
   email            : "jiahaow@usc.edu"
