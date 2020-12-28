@@ -9,7 +9,7 @@
 locale                   : "Hubei, China"
 title                    : "Jiahao Wen"
 title_separator          : "-"
-name                     : &name "Jiahao Wen"
+name                     : &name "Jiahao Wen (文嘉豪)"
 description              : &description "Personal Page"
 url                      : https://wkindling.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
