@@ -25,7 +25,7 @@ Research
 &nbsp; [*Pacific Graphics 2020*](https://pg2020.org/)  
 &nbsp; [paper](http://www.cad.zju.edu.cn/home/hj/20/EOL_rod.pdf)  
 
-<br>
+<br/>
 
 Miscellaneous
 ======
