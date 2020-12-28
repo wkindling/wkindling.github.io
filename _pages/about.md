@@ -16,7 +16,7 @@ Research
 ======
 <img width="140" height="130" align="left" src="https://wkindling.github.io/images/paper_0.png"/>
 
-&nbsp; __Cosserat Rod with rh-Adaptive Discretization__ 
+&nbsp; __Cosserat Rod with rh-Adaptive Discretization__   
 &nbsp; __Jiahao Wen__, Jiong Chen, [Nobuyuki Umetani](http://www.nobuyuki-umetani.com/), [Hujun Bao](http://www.cad.zju.edu.cn/bao/), [Jin Huang](http://www.cad.zju.edu.cn/home/hj/index.xml)  
 &nbsp; *Pacific Graphics 2020*  
 &nbsp; [paper](http://www.cad.zju.edu.cn/home/hj/20/EOL_rod.pdf)  
