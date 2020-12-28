@@ -17,8 +17,7 @@ My research interests include physics based simulation and geometry processing. 
 
 Research
 ======
-<p>
-  
+<div>  
 <img width="140" height="130" align="left" src="https://wkindling.github.io/images/paper_0.png"/>
 
 &nbsp; __Cosserat Rod with rh-Adaptive Discretization__   
@@ -26,7 +25,7 @@ Research
 &nbsp; [*Pacific Graphics 2020*](https://pg2020.org/)  
 &nbsp; [paper](http://www.cad.zju.edu.cn/home/hj/20/EOL_rod.pdf)  
 
-</p>
+</div>
 <br>
 
 Miscellaneous
