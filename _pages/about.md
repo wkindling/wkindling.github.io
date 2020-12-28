@@ -24,43 +24,9 @@ Research
 
 <br/>
 
-
-Education
+Miscellaneous
 ======
-<div>
-<div align="left">University of Southern California</div>
-<div align="right">Los Angeles, CA</div>
-</div>
-
-<div>
-<div style="float:left">Ph.D. Student in Computer Graphics</div>
-<div style="float:right">2020.8 —— Present</div>
-</div>
-
-
-<p align="left">  The University of Tokyo </p> <p align="right"> 2019.7 —— 2020.1 </p>
-<p align="left">  Visiting Student </p> <p align="right"> Tokyo, Japan </p>
-
-<p align="left">  Zhejiang University </p> <p align="right"> 2016.8 —— 2020.6 </p>
-<p align="left">  B.E. in Computer Science </p> <p align="right"> Hangzhou, China </p>
-
-
-Experience
-======
-<p align="left">  University of Southern California </p> <p align="right"> 2020.8 —— Present </p>
-<p align="left">  Research Assistant | Advisor: Prof. Jernej Barbič </p> <p align="right"> Los Angeles, CA </p>
-
-<p align="left">  NetEase Games </p> <p align="right"> 2020.7 —— 2020.8 </p>
-<p align="left">  Computer Graphics Engineer Intern in Messiah </p> <p align="right"> Guangzhou, China </p>
-
-<p align="left">  The University of Tokyo </p> <p align="right"> 2019.7 —— 2020.1 </p>
-<p align="left">  Research Intern | Advisor: Prof. Nobuyuki Umetani </p> <p align="right"> Tokyo, Japan </p>
-
-<p align="left">  Graphicchina </p> <p align="right"> 2019.4 —— 2019.5 </p>
-<p align="left">  Computer Graphics Engineer Intern | Advisor: Prof. Huamin Wang </p> <p align="right"> Hangzhou, China </p>
-
-<p align="left">  State Key Lab of CAD&CG, Zhejiang University </p> <p align="right"> 2018.7 —— 2020.6 </p>
-<p align="left">  Research Intern | Advisor: Prof. Jin Huang </p> <p align="right"> Hangzhou, China </p>
+I am a big fun of Dota or Dota2 and have played for over 7 years. In my spare time, I enjoy literature, photography, rock & roll, and classical music. 
 
 <br/>
 <br/>
