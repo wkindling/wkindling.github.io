@@ -27,8 +27,16 @@ Research
 
 Education
 ======
-<p align="left">  University of Southern California </p> <p align="right"> 2020.8 —— Present </p>
-<p align="left">  Ph.D. Student in Computer Graphics </p> <p align="right"> Los Angeles, CA </p>
+<div>
+<div style="float:left">University of Southern California</div>
+<div style="float:right">Los Angeles, CA</div>
+</div>
+
+<div>
+<div style="float:left">Ph.D. Student in Computer Graphics</div>
+<div style="float:right">2020.8 —— Present</div>
+</div>
+
 
 <p align="left">  The University of Tokyo </p> <p align="right"> 2019.7 —— 2020.1 </p>
 <p align="left">  Visiting Student </p> <p align="right"> Tokyo, Japan </p>
