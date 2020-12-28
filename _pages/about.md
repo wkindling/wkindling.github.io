@@ -23,7 +23,7 @@ Research
 &nbsp; __Cosserat Rod with rh-Adaptive Discretization__   
 &nbsp; __Jiahao Wen__, [Jiong Chen](https://jiong.netlify.app/), [Nobuyuki Umetani](http://www.nobuyuki-umetani.com/), [Hujun Bao](http://www.cad.zju.edu.cn/bao/), [Jin Huang](http://www.cad.zju.edu.cn/home/hj/index.xml)  
 &nbsp; [*Pacific Graphics 2020*](https://pg2020.org/)  
-&nbsp; [paper](http://www.cad.zju.edu.cn/home/hj/20/EOL_rod.pdf)  
+&nbsp; [paper](http://www.cad.zju.edu.cn/home/hj/20/EOL_rod.pdf)
 
 Miscellaneous
 ======
