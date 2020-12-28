@@ -14,8 +14,10 @@ I'm a first-year Ph.D. student at University of Southern California, advised by 
 
 My research interests include physics based simulation and geometry processing. I am fascinated by simulation algorithms which can capture the physics beauty, generate impressive animations, or assist fabrication design in a totally virtual world. Here is my [CV](https://wkindling.github.io/files/JiahaoWen.pdf)
 
+
 Research
 ======
+
 <img width="140" height="130" align="left" src="https://wkindling.github.io/images/paper_0.png"/>
 
 &nbsp; __Cosserat Rod with rh-Adaptive Discretization__  
