@@ -14,17 +14,17 @@ I'm a first-year Ph.D. student at University of Southern California, advised by 
 
 Research
 ======
-__Cosserat Rod with rh-Adaptive Discretization__  
-__Jiahao Wen__, Jiong Chen, [Nobuyuki Umetani](http://www.nobuyuki-umetani.com/), [Hujun Bao](http://www.cad.zju.edu.cn/bao/), [Jin Huang](http://www.cad.zju.edu.cn/home/hj/index.xml)  
-*Pacific Graphics 2020*  
-[paper](http://www.cad.zju.edu.cn/home/hj/20/EOL_rod.pdf)  
-
-<img width="140" height="130" align="right" src="https://wkindling.github.io/images/paper_0.png"/>
+<img width="140" height="130" align="left" src="https://wkindling.github.io/images/paper_0.png"/>
+&nbsp; __Cosserat Rod with rh-Adaptive Discretization__  
+&nbsp; __Jiahao Wen__, Jiong Chen, [Nobuyuki Umetani](http://www.nobuyuki-umetani.com/), [Hujun Bao](http://www.cad.zju.edu.cn/bao/), [Jin Huang](http://www.cad.zju.edu.cn/home/hj/index.xml)  
+&nbsp; *Pacific Graphics 2020*  
+&nbsp; [paper](http://www.cad.zju.edu.cn/home/hj/20/EOL_rod.pdf)  
 <br/>
 
 Miscellaneous
 ======
-I am a big fun of Dota or Dota2 and have played for over 7 years. In my spare time, I enjoy literature, photography, rock & roll, and classical music. 
+- I am a big fun of Dota or Dota2 and have played for over 7 years. 
+- In my spare time, I enjoy literature, photography, rock & roll, and classical music. 
 
 <br/>
 <br/>
