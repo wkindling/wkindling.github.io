@@ -28,8 +28,8 @@ Research
 Education
 ======
 <div>
-<div style="float:left">University of Southern California</div>
-<div style="float:right">Los Angeles, CA</div>
+<div align="left">University of Southern California</div>
+<div align="right">Los Angeles, CA</div>
 </div>
 
 <div>
