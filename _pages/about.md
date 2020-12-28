@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,7 +15,7 @@ I'm a first-year Ph.D. student at University of Southern California, advised by 
 Research
 ======
 
-<img width="140" height="100" align="left" src="https://github.com/wkindling/wkindling.github.io/raw/master/images/denoise.png"/>
+<img width="140" height="100" align="left" src="https://github.com/wkindling/wkindling.github.io/blob/master/images/paper_0.png"/>
 
 &nbsp; __Cosserat Rod with rh-Adaptive Discretization__  
 &nbsp; __Jiahao Wen__, Jiong Chen, [Nobuyuki Umetani](http://www.nobuyuki-umetani.com/), [Hujun Bao](http://www.cad.zju.edu.cn/bao/), [Jin Huang](http://www.cad.zju.edu.cn/home/hj/index.xml)  
