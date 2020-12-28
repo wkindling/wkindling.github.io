@@ -15,7 +15,7 @@ I'm a first-year Ph.D. student at University of Southern California, advised by 
 Research
 ======
 
-<img width="140" height="100" align="left" src="https://wkindling.github.io/images/paper_0.png"/>
+<img width="140" height="130" align="left" src="https://wkindling.github.io/images/paper_0.png"/>
 
 &nbsp; __Cosserat Rod with rh-Adaptive Discretization__  
 &nbsp; __Jiahao Wen__, Jiong Chen, [Nobuyuki Umetani](http://www.nobuyuki-umetani.com/), [Hujun Bao](http://www.cad.zju.edu.cn/bao/), [Jin Huang](http://www.cad.zju.edu.cn/home/hj/index.xml)  
