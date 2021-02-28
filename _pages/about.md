@@ -28,7 +28,8 @@ Research
 
 Miscellaneous
 ======
-- I am a big fun of Dota or Dota2 and have played for over 7 years. 
+- I am a big fan of Dota or Dota2 and have played for over 8 years. 
 - In my spare time, I enjoy literature, photography, rock & roll, and classical music. 
+- Feel free to send me an e-mail if you have something interesting to discuss with me:)
 <br>
 <br>
