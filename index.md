@@ -21,6 +21,6 @@ I am recently focusing on codimensional elastic object simulation involved with 
 - Teaching Assistant in \[CSCI-420\] Computer Graphics ([Spring 2023](http://viterbi-web.usc.edu/~jbarbic/cs420-s23/), [Spring 2022](https://viterbi-web.usc.edu/~jbarbic/cs420-s22/))
 
 ## Miscellaneous
-- My avatar is from Maple Story. I have played Dota/Dota2 for more than ten years.
+- My avatar is from MapleStory. I have played Dota/Dota2 for more than ten years.
 - I like rock music, especially prog rock. I also enjoy collecting wristwatches.
 - I love almost all the movies from Al Pacino, Satoshi Kon, and Hayao Miyazaki.
