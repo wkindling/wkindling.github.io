@@ -9,8 +9,8 @@ I am currently pursuing a Computer Graphics Ph.D. degree at the University of So
 
 ## Research Interests
 
-My research interests generally include physically based simulation and geometry processing.
-I am recently focusing on co-dimensional elastic object simulation involved with differential geometry.
+My research interests generally include physically based simulation and geometry processing.  
+I am recently focusing on codimensional elastic object simulation involved with differential geometry.
 
 
 {% include_relative _includes/publications.md %}
