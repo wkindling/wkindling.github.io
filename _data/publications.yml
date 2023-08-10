@@ -1,22 +1,32 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Kirchhoff-Love Shells with Arbitrary Hyperelastic Materials
+    authors: <strong>Jiahao Wen</strong>, <a href="https://viterbi-web.usc.edu/~jbarbic/">Jernej Barbič</a>
+    #conference_short: Siggraph Asia
+    conference: Siggraph Asia 2023
+    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/EQ3.png
+    notes: (Conditionally Accepted)
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  - title: Large-Strain Surface Modeling using Plasticity
+    authors: <strong>Jiahao Wen</strong>, <a href="https://bohanwang123.com">Bohan Wang</a>, <a href="https://viterbi-web.usc.edu/~jbarbic/">Jernej Barbič</a>
+    #conference_short: TVCG
+    journal: IEEE Trans. on Visualization and Computer Graphics 2023
+    pdf: http://viterbi-web.usc.edu/~jbarbic/plasticShell/WenWangBarbic-TVCG-2023.pdf
+    video: http://viterbi-web.usc.edu/~jbarbic/plasticShell/WenWangBarbic-TVCG-2023.mp4
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/EQ2.png
+
+  - title: Cosserat Rod with rh-Adaptive Discretization
+    authors: <strong>Jiahao Wen</strong>, <a href="https://jiongchen.github.io">Jiong Chen</a>, <a href="https://cgenglab.github.io/en/authors/admin/">Nobuyuki Umetani</a>, <a href="http://www.cad.zju.edu.cn/home/bao/">Hujun Bao</a>, <a href="http://www.cad.zju.edu.cn/home/hj/index.xml">Jin Huang</a>
+    #conference_short: PG
+    journal: Computer Graphics Forum, 39(7), 143-154, 2020 
+    conference: Pacific Graphics 2020
+    pdf: http://www.cad.zju.edu.cn/home/hj/20/EOL_rod.pdf
+    video: http://www.cad.zju.edu.cn/home/hj/20/EOL_rod.mp4
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/EQ1.png
+    notes: (Undergraduate Thesis)
