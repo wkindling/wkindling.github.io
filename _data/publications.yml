@@ -7,7 +7,7 @@ main:
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/EQ3.png
-    notes: (Conditionally Accepted)
+    notes: (Journal Track)
 
   - title: Large-Strain Surface Modeling using Plasticity
     authors: <strong>Jiahao Wen</strong>, <a href="https://bohanwang123.com">Bohan Wang</a>, <a href="https://viterbi-web.usc.edu/~jbarbic/">Jernej Barbič</a>
