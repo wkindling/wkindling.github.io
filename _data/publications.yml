@@ -3,7 +3,7 @@ main:
   - title: Kirchhoff-Love Shells with Arbitrary Hyperelastic Materials
     authors: <strong>Jiahao Wen</strong>, <a href="https://viterbi-web.usc.edu/~jbarbic/">Jernej Barbič</a>
     #conference_short: Siggraph Asia
-    journal: ACM Transactions on Graphics 42(6)
+    journal: ACM Transactions on Graphics 42(6), 2023
     conference: Siggraph Asia 2023
     pdf: http://viterbi-web.usc.edu/~jbarbic/fshells/WenBarbic-FShells-SIGGRAPHAsia-2023.pdf
     video: http://viterbi-web.usc.edu/~jbarbic/fshells/WenBarbic-FShells-SIGGRAPHAsia-2023.mp4
