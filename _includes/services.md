@@ -1,6 +1,4 @@
-## Services
-
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+## Reviewers
 
 <ul style="margin:0 0 5px;">
  Eurographics 2024
