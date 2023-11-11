@@ -1,7 +1,7 @@
-## Reviewers
+## Services
 
 <ul style="margin:0 0 5px;">
- Eurographics 2024
+**Reviewer for:** Eurographics 2024
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
