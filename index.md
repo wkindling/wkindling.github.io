@@ -15,7 +15,7 @@ I am recently focusing on codimensional elastic object simulation involved with 
 
 {% include_relative _includes/publications.md %}
 
-<!--{% include_relative _includes/services.md %}-->
+{% include_relative _includes/services.md %}
 
 ## Teaching
 - Teaching Assistant in \[CSCI-420\] Computer Graphics ([Spring 2023](http://viterbi-web.usc.edu/~jbarbic/cs420-s23/), [Spring 2022](https://viterbi-web.usc.edu/~jbarbic/cs420-s22/))
