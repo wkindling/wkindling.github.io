@@ -23,4 +23,4 @@ I am recently focusing on codimensional elastic object simulation involved with 
 ## Miscellaneous
 - My avatar is from MapleStory. I have played Dota/Dota2 for more than ten years.
 - I like rock music, especially prog rock. I also enjoy collecting wristwatches.
-- My favorite Ultraman is Leo!
+- I love all the movies from Satoshi Kon. My favorite Ultraman is Leo!
