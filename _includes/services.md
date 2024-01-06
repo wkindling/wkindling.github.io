@@ -1,6 +1,6 @@
 ## Services
 
-- **Reviewer for:** Eurographics 2024
+- **Reviewer for:** Eurographics, TVCJ
 
 
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
