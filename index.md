@@ -21,4 +21,4 @@ I am generally interested in both physically based simulation and geometry proce
 ## Miscellaneous
 - My avatar is from MapleStory. I have played Dota/Dota2 for more than ten years.
 - I like rock music, especially prog rock. I also enjoy collecting wristwatches.
-- 天地一逆旅，同悲万古尘。
+- 生者为过客，死者为归人。天地一逆旅，同悲万古尘。
