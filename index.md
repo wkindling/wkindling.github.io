@@ -9,7 +9,7 @@ I am currently pursuing a Computer Graphics Ph.D. degree at the University of So
 
 ## Research Interests
 
-I am generally interested in both physically based simulation and geometry processing, especially in adaptive simulation, surface editing, and co-dimensional elastic object simulation involved with differential geometry.
+I am generally interested in both physically based simulation and geometry processing, especially in adaptive simulation, surface editing, and co-dimensional elastic object simulation involved with differential geometry. I always come across problems that are difficult to solve and publish:)
 
 {% include_relative _includes/publications.md %}
 
@@ -18,7 +18,7 @@ I am generally interested in both physically based simulation and geometry proce
 ## Teaching
 - Teaching Assistant in \[CSCI-420\] Computer Graphics ([Spring 2024](https://viterbi-web.usc.edu/~jbarbic/cs420-s24/), [Spring 2023](http://viterbi-web.usc.edu/~jbarbic/cs420-s23/), [Spring 2022](https://viterbi-web.usc.edu/~jbarbic/cs420-s22/))
 
-## Miscellaneous
-- My avatar is from MapleStory. I have played Dota/Dota2 for more than ten years.
-- I like rock music, especially prog rock. I also enjoy collecting wristwatches.
-- 生者为过客，死者为归人。天地一逆旅，同悲万古尘。
+## Fun Facts
+- My avatar is from MapleStory. I have played Dota/Dota2 for more than ten years.    
+- I enjoy collecting mechanical watches. I also like rock music, especially prog rock. 
+- I have been to live concerts by Roger Waters, Beach Boys, Yes, Scorpions, Muse, Placebo, Air Supply, Queen... 
