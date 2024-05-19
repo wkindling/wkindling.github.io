@@ -22,4 +22,3 @@ I am generally interested in both physically based simulation and geometry proce
 - My avatar is from MapleStory. I have played Dota/Dota2 for more than ten years.    
 - I enjoy collecting mechanical watches. I also like rock music, especially prog rock. 
 - Since I started my Ph.D., I have been to live concerts by Rolling Stones, Roger Waters, Beach Boys, Yes, Scorpions, Muse, Placebo, Air Supply, Queen + Adam Lambert...
-- My favorite script is 暗恋桃花源. I am always waiting for that person.
