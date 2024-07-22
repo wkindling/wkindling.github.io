@@ -34,7 +34,7 @@
       {% if link.video %} 
       <a href="{{ link.video }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
       {% endif %}
-      {% if link.bibtex %} 
+      {% if link.presentation %} 
       <a href="{{ link.presentation }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Presentation</a>
       {% endif %}
       {% if link.notes %} 
