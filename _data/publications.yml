@@ -16,8 +16,8 @@ main:
     journal: IEEE Trans. on Visualization and Computer Graphics 2023
     pdf: http://viterbi-web.usc.edu/~jbarbic/plasticShell/WenWangBarbic-TVCG-2023.pdf
     video: http://viterbi-web.usc.edu/~jbarbic/plasticShell/WenWangBarbic-TVCG-2023.mp4
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    presentation: https://youtu.be/4X95VVKvnL4?feature=shared&t=3595
     image: ./assets/img/EQ2.png
 
   - title: Cosserat Rod with rh-Adaptive Discretization
