@@ -2,7 +2,7 @@ main:
 
   - title: Optimal r-Adaptive In-Timestep Remeshing for Elastodynamics
     authors: <strong>Jiahao Wen</strong>, <a href="https://viterbi-web.usc.edu/~jbarbic/">Jernej Barbič</a>, <a href="https://dannykaufman.io">Danny M. Kaufman</a>
-    #conference_short: Siggraph Asia
+    conference_short: Siggraph
     journal: ACM Transactions on Graphics 42(6), 2025
     conference: Siggraph 2025
     #pdf: http://viterbi-web.usc.edu/~jbarbic/fshells/WenBarbic-FShells-SIGGRAPHAsia-2023.pdf
@@ -12,7 +12,7 @@ main:
 
   - title: "ANIME-Rod: Adjustable Nonlinear Isotropic Materials for Elastic Rods"
     authors: <a href="https://sites.google.com/usc.edu/huanyu-chen">Huanyu Chen</a>, <strong>Jiahao Wen</strong>, <a href="https://viterbi-web.usc.edu/~jbarbic/">Jernej Barbič</a>
-    #conference_short: Siggraph Asia
+    conference_short: Siggraph
     journal: ACM Transactions on Graphics 42(6), 2025
     conference: Siggraph 2025
     #pdf: http://viterbi-web.usc.edu/~jbarbic/fshells/WenBarbic-FShells-SIGGRAPHAsia-2023.pdf
@@ -22,7 +22,7 @@ main:
 
   - title: Kirchhoff-Love Shells with Arbitrary Hyperelastic Materials
     authors: <strong>Jiahao Wen</strong>, <a href="https://viterbi-web.usc.edu/~jbarbic/">Jernej Barbič</a>
-    #conference_short: Siggraph Asia
+    conference_short: Siggraph Asia
     journal: ACM Transactions on Graphics 42(6), 2023
     conference: Siggraph Asia 2023
     pdf: http://viterbi-web.usc.edu/~jbarbic/fshells/WenBarbic-FShells-SIGGRAPHAsia-2023.pdf
@@ -32,7 +32,7 @@ main:
 
   - title: Large-Strain Surface Modeling using Plasticity
     authors: <strong>Jiahao Wen</strong>, <a href="https://bohanwang123.com">Bohan Wang</a>, <a href="https://viterbi-web.usc.edu/~jbarbic/">Jernej Barbič</a>
-    #conference_short: TVCG
+    conference_short: TVCG
     journal: IEEE Trans. on Visualization and Computer Graphics 2023
     pdf: http://viterbi-web.usc.edu/~jbarbic/plasticShell/WenWangBarbic-TVCG-2023.pdf
     video: http://viterbi-web.usc.edu/~jbarbic/plasticShell/WenWangBarbic-TVCG-2023.mp4
@@ -42,7 +42,7 @@ main:
 
   - title: Cosserat Rod with rh-Adaptive Discretization
     authors: <strong>Jiahao Wen</strong>, <a href="https://jiongchen.github.io">Jiong Chen</a>, <a href="https://cgenglab.github.io/en/authors/admin/">Nobuyuki Umetani</a>, <a href="http://www.cad.zju.edu.cn/home/bao/">Hujun Bao</a>, <a href="http://www.cad.zju.edu.cn/home/hj/index.xml">Jin Huang</a>
-    #conference_short: PG
+    conference_short: PG
     journal: Computer Graphics Forum, 39(7), 143-154, 2020 
     conference: Pacific Graphics 2020
     pdf: http://www.cad.zju.edu.cn/home/hj/20/EOL_rod.pdf
