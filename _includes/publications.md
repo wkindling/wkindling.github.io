@@ -11,9 +11,9 @@
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% endif %}
-    <!--{% if link.conference_short %} 
+    {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}-->
+    {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
@@ -38,7 +38,7 @@
       <a href="{{ link.talk }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Talk</a>
       {% endif %}
       {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      <strong> <i style="color:#800020">{{ link.notes }}</i></strong>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
