@@ -9,7 +9,7 @@ I am currently pursuing a Computer Graphics Ph.D. degree at the University of So
 
 ## Research Interests
 
-I am generally interested in both physically based simulation and geometry processing, especially in adaptive simulation, collision handling, surface editing, and co-dimensional elastic object simulation involved with differential geometry. I always come across problems that are difficult to solve and publish:)
+I am generally interested in both physically based simulation and geometry processing, especially in adaptive simulation, incremental potential contact(IPC), numerical optimization, surface editing, and co-dimensional elastic object simulation involved with differential geometry. I always come across problems that are difficult to solve and publish:)
 
 {% include_relative _includes/publications.md %}
 
