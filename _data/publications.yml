@@ -1,5 +1,25 @@
 main:
 
+  - title: Optimal r-Adaptive In-Timestep Remeshing for Elastodynamics
+    authors: <strong>Jiahao Wen</strong>, <a href="https://viterbi-web.usc.edu/~jbarbic/">Jernej Barbič</a>, <a href="https://dannykaufman.io">Danny M. Kaufman</a>
+    #conference_short: Siggraph Asia
+    journal: ACM Transactions on Graphics 42(6), 2025
+    conference: Siggraph 2025
+    #pdf: http://viterbi-web.usc.edu/~jbarbic/fshells/WenBarbic-FShells-SIGGRAPHAsia-2023.pdf
+    #video: http://viterbi-web.usc.edu/~jbarbic/fshells/WenBarbic-FShells-SIGGRAPHAsia-2023.mp4
+    #talk: https://www.bilibili.com/video/BV1Mw4m127ZA
+    image: ./assets/img/EQ5.png
+
+  - title: ANIME-Rod: Adjustable Nonlinear Isotropic Materials for Elastic Rods
+    authors: Huanyu Chen, <strong>Jiahao Wen</strong>, <a href="https://viterbi-web.usc.edu/~jbarbic/">Jernej Barbič</a>
+    #conference_short: Siggraph Asia
+    journal: ACM Transactions on Graphics 42(6), 2025
+    conference: Siggraph 2025
+    #pdf: http://viterbi-web.usc.edu/~jbarbic/fshells/WenBarbic-FShells-SIGGRAPHAsia-2023.pdf
+    #video: http://viterbi-web.usc.edu/~jbarbic/fshells/WenBarbic-FShells-SIGGRAPHAsia-2023.mp4
+    #talk: https://www.bilibili.com/video/BV1Mw4m127ZA
+    image: ./assets/img/EQ4.png
+
   - title: Kirchhoff-Love Shells with Arbitrary Hyperelastic Materials
     authors: <strong>Jiahao Wen</strong>, <a href="https://viterbi-web.usc.edu/~jbarbic/">Jernej Barbič</a>
     #conference_short: Siggraph Asia
