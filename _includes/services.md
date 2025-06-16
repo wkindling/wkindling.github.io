@@ -1,6 +1,6 @@
 ## Services
 
-- **Reviewer for:** Siggraph North America, Siggraph Asia, Eurographics, TVCJ
+- **Reviewer for:** Siggraph North America, Siggraph Asia, Eurographics, Pacific Graphics, TVCJ
 
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
