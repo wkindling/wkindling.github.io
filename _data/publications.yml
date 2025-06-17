@@ -5,8 +5,8 @@ main:
     conference_short: Siggraph North America
     journal: ACM Transactions on Graphics 42(6), 2025
     conference: Siggraph North America 2025
-    #pdf: http://viterbi-web.usc.edu/~jbarbic/fshells/WenBarbic-FShells-SIGGRAPHAsia-2023.pdf
-    #video: http://viterbi-web.usc.edu/~jbarbic/fshells/WenBarbic-FShells-SIGGRAPHAsia-2023.mp4
+    pdf: https://dannykaufman.io/projects/O-R-ITR/O-R-ITR.html
+    video: https://dannykaufman.io/projects/O-R-ITR/O-R-ITR.html
     #talk: https://www.bilibili.com/video/BV1Mw4m127ZA
     image: ./assets/img/EQ5.png
 
@@ -15,8 +15,8 @@ main:
     conference_short: Siggraph North America
     journal: ACM Transactions on Graphics 42(6), 2025
     conference: Siggraph North America 2025
-    #pdf: http://viterbi-web.usc.edu/~jbarbic/fshells/WenBarbic-FShells-SIGGRAPHAsia-2023.pdf
-    #video: http://viterbi-web.usc.edu/~jbarbic/fshells/WenBarbic-FShells-SIGGRAPHAsia-2023.mp4
+    pdf: https://viterbi-web.usc.edu/~jbarbic/fcurves/ChenWenBarbic-SIGGRAPH2025.pdf
+    video: https://viterbi-web.usc.edu/~jbarbic/fcurves/ChenWenBarbic-SIGGRAPH2025-main-video.mp4
     #talk: https://www.bilibili.com/video/BV1Mw4m127ZA
     image: ./assets/img/EQ4.png
 
