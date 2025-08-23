@@ -6,8 +6,6 @@ layout: homepage
 
 I am currently pursuing a Computer Graphics Ph.D. degree at the University of Southern California, advised by [Prof. Jernej Barbič](https://viterbi-web.usc.edu/~jbarbic/). Before joining USC, I obtained my B.E. degree in Computer Science and Technology from [the mixed class](http://www.cis.umassd.edu/~hxu/alink/jclass/mixedclass.html) at Chu Kochen Honors College, Zhejiang University. I was very fortunate to work with [Prof. Jin Huang](http://www.cad.zju.edu.cn/home/hj/index.xml) and [Prof. Nobuyuki Umetani](https://cgenglab.github.io/en/authors/admin/) during my undergraduate studies. I also had four successive internships at [Adobe Research](https://research.adobe.com), collaborating with [Dr. Danny M. Kaufman](https://dannykaufman.io).
 
-- 天道常变易，运数杳难寻。
-
 <font color="#E2421F"><b>I am expected to graduate by Spring 2026 and am seeking global opportunities in both academia and industry. Feel free to reach out if you know of a position that would be a good fit. Thank you:)</b></font>
 
 ## Research Interests
