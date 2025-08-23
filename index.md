@@ -20,6 +20,7 @@ I am generally interested in both physically based simulation and geometry proce
 - Teaching Assistant in \[CSCI-420\] Computer Graphics ([2025S](https://viterbi-web.usc.edu/~jbarbic/cs420-s25/), [2024F](https://odedstein.com/teaching/hs-2024-csci-420/index.html), [2024S](https://viterbi-web.usc.edu/~jbarbic/cs420-s24/), [2023S](http://viterbi-web.usc.edu/~jbarbic/cs420-s23/), [2022S](https://viterbi-web.usc.edu/~jbarbic/cs420-s22/))
 
 ## Fun Facts
+- 天道常变易，运数杳难寻。
 - My avatar is from MapleStory. I have played Dota/Dota2 for more than ten years.    
 - I enjoy collecting mechanical watches. I also like rock music, especially prog rock. 
 - Since I started my Ph.D., I have been to live concerts by **Rolling Stones**, **David Gilmour**, **Roger Waters**, Beach Boys, Yes, Scorpions, Muse, Placebo, Air Supply, **Queen** + Adam Lambert...
