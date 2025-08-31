@@ -4,7 +4,7 @@ main:
     authors: <strong>Jiahao Wen</strong>, <a href="https://viterbi-web.usc.edu/~jbarbic/">Jernej Barbič</a>, <a href="https://dannykaufman.io">Danny M. Kaufman</a>
     conference_short: Siggraph North America
     journal: ACM Transactions on Graphics 44(4), 2025
-    conference: Siggraph 2025 (journal track)
+    conference: Siggraph 2025 (Journal Track)
     pdf: https://dannykaufman.io/projects/O-R-ITR/O-R-ITR.html
     video: https://dannykaufman.io/projects/O-R-ITR/O-R-ITR.html
     #talk: https://www.bilibili.com/video/BV1Mw4m127ZA
@@ -14,7 +14,7 @@ main:
     authors: <a href="https://sites.google.com/usc.edu/huanyu-chen">Huanyu Chen</a>, <strong>Jiahao Wen</strong>, <a href="https://viterbi-web.usc.edu/~jbarbic/">Jernej Barbič</a>
     conference_short: Siggraph North America
     journal: ACM Transactions on Graphics 44(4), 2025
-    conference: Siggraph 2025 (journal track)
+    conference: Siggraph 2025 (Journal Track)
     pdf: https://viterbi-web.usc.edu/~jbarbic/fcurves/ChenWenBarbic-SIGGRAPH2025.pdf
     video: https://viterbi-web.usc.edu/~jbarbic/fcurves/ChenWenBarbic-SIGGRAPH2025-main-video.mp4
     #talk: https://www.bilibili.com/video/BV1Mw4m127ZA
@@ -24,7 +24,7 @@ main:
     authors: <strong>Jiahao Wen</strong>, <a href="https://viterbi-web.usc.edu/~jbarbic/">Jernej Barbič</a>
     conference_short: Siggraph Asia
     journal: ACM Transactions on Graphics 42(6), 2023
-    conference: Siggraph Asia 2023 (journal track)
+    conference: Siggraph Asia 2023 (Journal Track)
     pdf: http://viterbi-web.usc.edu/~jbarbic/fshells/WenBarbic-FShells-SIGGRAPHAsia-2023.pdf
     video: http://viterbi-web.usc.edu/~jbarbic/fshells/WenBarbic-FShells-SIGGRAPHAsia-2023.mp4
     talk: https://www.bilibili.com/video/BV1Mw4m127ZA
