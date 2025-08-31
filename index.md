@@ -18,6 +18,7 @@ I am generally interested in both physically based simulation and geometry proce
 
 ## Teaching
 - Teaching Assistant in \[CSCI-420\] Computer Graphics ([2025S](https://viterbi-web.usc.edu/~jbarbic/cs420-s25/), [2024F](https://odedstein.com/teaching/hs-2024-csci-420/index.html), [2024S](https://viterbi-web.usc.edu/~jbarbic/cs420-s24/), [2023S](http://viterbi-web.usc.edu/~jbarbic/cs420-s23/), [2022S](https://viterbi-web.usc.edu/~jbarbic/cs420-s22/))
+- Teaching Assistant in \[CSCI-526\] Advanced Mobile Devices and Games (2025F)
 
 ## Fun Facts
 - My avatar is from MapleStory. I have played Dota/Dota2 for more than ten years.    
