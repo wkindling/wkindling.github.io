@@ -22,4 +22,4 @@ My research lies at the intersection of physically based simulation, geometry pr
 ## Fun Facts
 - ⚙️ I enjoy collecting mechanical watches and learning about their history.
 - 🎸 I like rock music, especially prog rock. Pink Floyd is my favorite band.
-- 🎹 I love classical music. One of my favorite recordings is [Sviatoslav Richter’s performance of Rachmaninoff’s Piano Concerto No. 2](https://share.google/XsFEAEIKa6mXMKmlG).
+- 🎹 I love classical music. My favorite recording is [Sviatoslav Richter’s performance of Rachmaninoff’s Piano Concerto No. 2](https://share.google/XsFEAEIKa6mXMKmlG).
