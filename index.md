@@ -22,7 +22,7 @@ My research lies at the intersection of physically based simulation, geometry pr
 - Teaching Assistant in \[CSCI-104\] Data Structures and Object Oriented Design (2026S)
 
 ## Fun Facts
+- 📖 Feel free to connect with me if you are interested in Haruki Murakami:)
 - ⚙️ I enjoy collecting mechanical watches and learning about their history.
 - 🎸 I like rock music. Pink Floyd is my favorite band. I've been lucky to see both Roger Waters and David Gilmour live.
 - 🎹 I love classical music. My favorite recording is [Sviatoslav Richter's performance of Rachmaninoff's Piano Concerto No. 2](https://share.google/XsFEAEIKa6mXMKmlG).
-- 📖 Feel free to connect with me if you are interested in Haruki Murakami:)
