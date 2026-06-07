@@ -10,7 +10,7 @@ I obtained my Ph.D. in Computer Graphics from the University of Southern Califor
 
 My research lies at the intersection of physically based simulation, geometry processing, and numerical optimization. During my Ph.D., I developed adaptive simulation methods for contact-rich and co-dimensional elastic systems, centered on incremental potential contact (IPC), finite element methods, and differential-geometric formulations of thin shells and solids. I am now bringing this geometric and physical grounding to generative world models, aiming to build dynamic, interactive environments with accurate 3D spatial structure and physical consistency at their core.
 
-<font color=" #E2421F"><b> After graduation (finally!), I’m looking forward to connecting more openly with researchers across simulation, geometry, computer graphics, embodied AI, and world models. My Ph.D. journey made me appreciate not only hard technical problems, but also honest, generous, and respectful collaborations. Please feel free to reach out — I’m always happy to chat.</b></font><br>
+<font color=" #E2421F"><b> After graduation (finally!), I’m looking forward to connecting more openly with researchers across simulation, geometry, computer graphics, embodied AI, and world models. Please feel free to reach out — I’m always happy to chat.</b></font><br>
 
 {% include_relative _includes/publications.md %}
 
