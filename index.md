@@ -6,8 +6,8 @@ layout: homepage
 
 I obtained my Ph.D. in Computer Graphics from the University of Southern California, under the supervision of [Prof. Jernej Barbič](https://viterbi-web.usc.edu/~jbarbic/). Before joining USC, I earned my B.E. in Computer Science and Technology from [the mixed class](http://www.cis.umassd.edu/~hxu/alink/jclass/mixedclass.html) at the Chu Kochen Honors College, Zhejiang University. I was very fortunate to work with [Prof. Jin Huang](http://www.cad.zju.edu.cn/home/hj/index.xml) and [Prof. Nobuyuki Umetani](https://cgenglab.github.io/en/authors/admin/) during my undergraduate studies. I also had four successive internships at [Adobe Research](https://research.adobe.com), collaborating with [Dr. Danny M. Kaufman](https://dannykaufman.io).
 
-<font color="#E2421F"><b> Unlike previously, I am now open to any kind of collaboration. </b></font>
-<font color="#E2421F"><b> If you are interested in my academic background, Ultraman Leo, Haruki Murakami, MapleStory, or any ACG content, pls definitely connect with me. I'm very happy to talk! Thank you:) </b></font>
+<font color=" #E2421F"><b> Unlike previously, I am now finally open to any kind of collaboration!!! </b></font><br>
+<font color=" #E2421F"><b> If you are interested in my academic background, Ultraman Leo, Haruki Murakami, MapleStory, or any ACG content, pls definitely connect with me. I'm very happy to talk! Thank you:) </b></font>
 
 ## Research Interests
 
@@ -24,5 +24,5 @@ My research lies at the intersection of physically based simulation, geometry pr
 
 ## Fun Facts
 - ⚙️ I enjoy collecting mechanical watches and learning about their history.
-- 🎸 I like rock music. Pink Floyd is my favorite band. I’ve been lucky to see both Roger Waters and David Gilmour live.
-- 🎹 I love classical music. My favorite recording is [Sviatoslav Richter’s performance of Rachmaninoff’s Piano Concerto No. 2](https://share.google/XsFEAEIKa6mXMKmlG).
+- 🎸 I like rock music. Pink Floyd is my favorite band. I've been lucky to see both Roger Waters and David Gilmour live.
+- 🎹 I love classical music. My favorite recording is [Sviatoslav Richter's performance of Rachmaninoff's Piano Concerto No. 2](https://share.google/XsFEAEIKa6mXMKmlG).
