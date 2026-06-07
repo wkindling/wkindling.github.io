@@ -10,9 +10,7 @@ I obtained my Ph.D. in Computer Graphics from the University of Southern Califor
 
 My research lies at the intersection of physically based simulation, geometry processing, and numerical optimization. During my Ph.D., I developed adaptive simulation methods for contact-rich and co-dimensional elastic systems, centered on incremental potential contact (IPC), finite element methods, and differential-geometric formulations of thin shells and solids. I am now bringing this geometric and physical grounding to generative world models, aiming to build dynamic, interactive environments with accurate 3D spatial structure and physical consistency at their core.
 
-<font color=" #E2421F"><b> After graduation (finally!), I’m looking forward to connecting more openly through research. Please feel free to reach out if you’d like to discuss simulation, geometry, computer graphics, embodied AI, and world models. I’m always happy to chat with different people!</b></font>  
-
-
+<font color=" #E2421F"><b> After graduation (finally!), I’m looking forward to connecting more openly through research. Please feel free to reach out if you’d like to discuss simulation, geometry, computer graphics, embodied AI, and world models. I’m always happy to chat with different people!</b></font><br>
 
 {% include_relative _includes/publications.md %}
 
@@ -27,3 +25,4 @@ My research lies at the intersection of physically based simulation, geometry pr
 - ⚙️ I enjoy collecting mechanical watches and learning about their history.
 - 🎸 I like rock music. Pink Floyd is my favorite band. I've been lucky to see both Roger Waters and David Gilmour live.
 - 🎹 I love classical music. My favorite recording is [Sviatoslav Richter's performance of Rachmaninoff's Piano Concerto No. 2](https://share.google/XsFEAEIKa6mXMKmlG).
+- 📖 Feel free to connect with me if you are interested in Haruki Murakami:)
